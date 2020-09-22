@@ -8,7 +8,7 @@
 #
 
 library(shiny)
-library(shinydashboard)
+#library(shinydashboard)
 library(leaflet)
 library(rgdal)
 library(dplyr)
@@ -18,7 +18,7 @@ library(data.table)
 library(htmltools)
 library(choroplethrMaps)
 library(choroplethr)
-library(ggplot2)
+#library(ggplot2)
 
 
 data(country.map, package = "choroplethrMaps")
