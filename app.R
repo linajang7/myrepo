@@ -86,5 +86,3 @@ server <- shinyServer(
         })
     }
 )
-
-shinyApp(ui = ui, server = server)
